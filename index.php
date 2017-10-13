@@ -10,22 +10,7 @@
 </head>
 
 <body>
-  <nav id="navigation">
-    <ul>
-      <li>
-        <a href="#">Home</a>
-      </li>
-      <li>
-        <a href="#">About</a>
-      </li>
-      <li>
-        <a href="#">Work</a>
-      </li>
-      <li>
-        <a href="#">Contact</a>
-      </li>
-    </ul>
-  </nav>
+  <?php require 'modules/nav.php' ?>
   <div id="hero">
     <h1 id="heroTitle">Hero title</h1>
     <h3 id="subTitle">Subtitle</h3>
@@ -52,8 +37,7 @@
       </div>
     </div>
   </div>
-  <footer>
-  </footer>
+  <?php require 'modules/footer.php'?>
   <!-- JavaScript -->
   <script src="js/main.js"></script>
 </body>
