@@ -31,6 +31,15 @@
       <div class="card">
         <h2>CTA</h2>
       </div>
+      <div class="card">
+        <h2>CTA</h2>
+      </div>
+      <div class="card">
+        <h2>CTA</h2>
+      </div>
+      <div class="card">
+        <h2>CTA</h2>
+      </div>
     </div>
   </div>
   <?php require 'modules/footer.php'?>
